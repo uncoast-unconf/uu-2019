@@ -1,5 +1,7 @@
 # README
 
+![](uulogo.png)
+
 Welcome to the Github repository for the first Uncoast Unconference! 
 
 Here we will host all of the potential projects for the conference. 
