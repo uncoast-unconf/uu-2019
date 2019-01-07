@@ -4,7 +4,7 @@
 
 Welcome to the Github repository for the first Uncoast Unconference! 
 
-Here we will host all of the potential projects for the conference. 
+Here we will host all of the potential projects for the conference. Right now, we just have the logo and the code & data used to create it, as well as our Code of Conduct.  
 
 All applicants & participants must agree to the event Code of Conduct below. 
 
