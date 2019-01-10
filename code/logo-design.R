@@ -10,20 +10,6 @@ coastal2 <- filter(coastal2, state_name != "Puerto Rico")
 coastal2 <- filter(coastal2, state_name != "Vermont")
 coastal2 <- filter(coastal2, state_name != "District of Columbia")
 
-ggplot(data = coastal2) + 
-  geom_sf() + 
-  theme_void() + 
-  theme(panel.grid = element_line(color = NA))
-# des moines coordinates: 41.5868° N, 93.6250° W
-
-ggplot() + 
-  geom_sf(data = coastal2) + 
-  geom_point(data = NULL, aes(y =41.5868, x = -93.6250 ), shape= 12) + 
-  #geom_text(data = NULL, aes(y =41.5868, x = -93.6250 , label = "Des Moines, IA"),
-   #         hjust = .5, vjust = -1) + 
-  theme_void() + 
-  theme(panel.grid = element_line(color = NA))
-
 library(magick)
 
 logo <- image_read("img/Rlogo.png")
@@ -41,3 +27,5 @@ dev.off()
 
 out <- image_composite(fig, logo, offset = "+315+155")
 print(out)
+
+# R logo copyright 2016 The R Foundation. Used with permission of the CC BY-SA 4.0 license. 
