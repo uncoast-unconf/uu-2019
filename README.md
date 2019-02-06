@@ -1,6 +1,6 @@
 # README
 
-![](uulogo.png)
+![](img/uulogo.png)
 
 Welcome to the Github repository for the first Uncoast Unconference! 
 
