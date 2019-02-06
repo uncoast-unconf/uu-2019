@@ -32,4 +32,4 @@ Thank you for working with us to make the Uncoast Unconference a safe, enjoyable
 
 Parts of above text is licensed CC BY-SA 4.0. Credit to SRCCON. Also inspired by the Ada Initiative’s "how to design a code of conduct for your community."
 
-Credit for the above language goes to the [ROpenSci](http://unconf18.ropensci.org/coc.html) team.
+Credit for the above language goes to the [rOpenSci](http://unconf18.ropensci.org/coc.html) team.
