@@ -24,7 +24,7 @@ This code of conduct applies to all participants, including the organizers, and 
 
 ### If you need help during the event:
 
-Please speak with one of the conference organizers listed on the website if you have any concerns. If you prefer electronic communication, please use the CONTACT link on the website menu.
+Please speak with one of the conference organizers listed on the website if you have any concerns. If you prefer electronic communication, please use [this form](https://forms.gle/SwuMUhpgpCt3qmxK6).
 
 If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact a conference organizer with a concise description of your grievance.)
 
