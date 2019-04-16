@@ -8,14 +8,14 @@ Welcome to the Github repository for the first Uncoast Unconference! Here we hos
 
 ## Projects
 
-- :anchor: [steward](https://github.com/uncoast-unconf/steward)
-- :stuck_out_tongue_closed_eyes: [untidydata2](https://github.com/kwstat/untidydata2)
-- :whale: [whaler](https://github.com/uncoast-unconf/whaler)
-- :scroll: rolldown
-- :earth_americas: [ggcart](https://github.com/uncoast-unconf/ggcart)
-- :sweat_smile: [Methods of Weird](https://github.com/uncoast-unconf/methods-of-weird). Modeling the weirdness of people.
-- :cyclone: [Swirl course for writing an R package](https://github.com/lex-files/swirl_courses)
-- :eyes: [opencv](https://github.com/uncoast-unconf/opencv) 
+- :anchor: [steward](https://github.com/uncoast-unconf/steward): @ijlyttle @stephaniereinders @nikdata @AmandaRaeISU
+- :stuck_out_tongue_closed_eyes: [untidydata2](https://github.com/kwstat/untidydata2) @anneae @kwstat @giorgichi @davidbody
+- :whale: [whaler](https://github.com/uncoast-unconf/whaler) @ellisvalentiner @benjamincrary @shelmich @ajmcoqui
+- :scroll: rolldown @yihui @iqis @cpsievert
+- :earth_americas: [ggcart](https://github.com/uncoast-unconf/ggcart) @charlesminshew @gergness @kmaurer @angela-li @hlendway @mdseege
+- :sweat_smile: [Methods of Weird](https://github.com/uncoast-unconf/methods-of-weird). Modeling the weirdness of people. @linkalis @mharmston @mkosmicki @cvanpay @drfletch
+- :cyclone: [Swirl course for writing an R package](https://github.com/lex-files/swirl_courses) @lex-files @vfquirin @nooreendabbish
+- :eyes: [opencv](https://github.com/uncoast-unconf/opencv) @gzt @speegled @minnesotka @wch
 
 ---
 
