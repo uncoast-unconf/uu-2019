@@ -4,9 +4,14 @@
 
 Here is our gitter room: https://gitter.im/uncoast-unconf/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 
-Welcome to the Github repository for the first Uncoast Unconference! 
+Welcome to the Github repository for the first Uncoast Unconference! Here we host all of the potential & actual projects for the conference. Right now, we just have the logo and the code & data used to create it, as well as our Code of Conduct.  
 
-Here we will host all of the potential projects for the conference. Right now, we just have the logo and the code & data used to create it, as well as our Code of Conduct.  
+## Projects
+
+- whaler
+- rolldown
+
+---
 
 All applicants & participants must agree to the event Code of Conduct below. 
 
