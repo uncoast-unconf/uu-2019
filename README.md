@@ -16,6 +16,7 @@ Welcome to the Github repository for the first Uncoast Unconference! Here we hos
 - :sweat_smile: [Methods of Weird](https://github.com/uncoast-unconf/methods-of-weird). Modeling the weirdness of people. @linkalis @mharmston @mkosmicki @cvanpay @drfletch
 - :cyclone: [Swirl course for writing an R package](https://github.com/lex-files/swirl_courses) @lex-files @vfquirin @nooreendabbish
 - :eyes: [opencv](https://github.com/uncoast-unconf/opencv) @gzt @speegled @minnesotka @wch
+- :heartbeat: psyphyr: psychophysiological data wrangling @wendtke @ajmcoqui @almccombs
 
 ---
 
