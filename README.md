@@ -8,14 +8,14 @@ Welcome to the Github repository for the first Uncoast Unconference! Here we hos
 
 ## Projects
 
+- :anchor: [steward](https://github.com/uncoast-unconf/steward)
+- :stuck_out_tongue_closed_eyes: [untidydata2](https://github.com/kwstat/untidydata2)
 - :whale: [whaler](https://github.com/uncoast-unconf/whaler)
 - :scroll: rolldown
-- :earth_americas: [albersextra](https://github.com/uncoast-unconf/albersextra#albersextra)
-- modeling the weirdness of people
-- :stuck_out_tongue_closed_eyes: [untidydata2](https://github.com/kwstat/untidydata2)
-- teaching package dev with a package
+- :earth_americas: [ggcart](https://github.com/uncoast-unconf/ggcart)
+- :sweat_smile: [Methods of Weird](https://github.com/uncoast-unconf/methods-of-weird). Modeling the weirdness of people.
+- :cyclone: [Swirl course for writing an R package](https://github.com/lex-files/swirl_courses)
 - :eyes: [opencv](https://github.com/uncoast-unconf/opencv) 
-- :anchor: [steward](https://github.com/ijlyttle/steward)
 
 ---
 
