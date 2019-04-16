@@ -8,9 +8,14 @@ Welcome to the Github repository for the first Uncoast Unconference! Here we hos
 
 ## Projects
 
-- whaler
-- rolldown
-- [albersextra](https://github.com/uncoast-unconf/albersextra#albersextra)
+- :whale: [whaler](https://github.com/uncoast-unconf/whaler)
+- :scroll: rolldown
+- :earth_americas: [albersextra](https://github.com/uncoast-unconf/albersextra#albersextra)
+- modeling the weirdness of people
+- :stuck_out_tongue_closed_eyes: [untidydata2](https://github.com/kwstat/untidydata2)
+- teaching package dev with a package
+- :eyes: [opencv](https://github.com/uncoast-unconf/opencv) 
+- :anchor: [steward](https://github.com/ijlyttle/steward)
 
 ---
 
