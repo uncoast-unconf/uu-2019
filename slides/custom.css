@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+* {
+  font-size: 100%;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.inverse {
+  background-color: #145EB2;
+  color: #fff;
+  text-shadow: none;
+}
+
+.remark-slide-content h2 {
+  font-size: 38px;
+}

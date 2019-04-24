@@ -1,0 +1,32 @@
+---
+title: "The Uncoast Unconf"
+subtitle: "Who, What, When, Where, Why, and How?<br>(not necessarily in that order)"
+author: "Sam Tyner, Ian Lyttle, Amelia McNamara, Heike Hofmann, Susan Vanderplas"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["default", "custom.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# About Us
+
+Sam Tyner - postdoc, over-involved & over-committed 
+
+---
+# Why 
+
+---
+# When & Where
+
+---
+class: inverse, center, middle
+# What
