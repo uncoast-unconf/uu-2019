@@ -22,20 +22,28 @@ library(emo)
 ```
 # About Us
 
-Sam Tyner - postdoc, over-involved & over-committed 
+Sam Tyner - postdoc, over-involved & over-committed DIYer 
 
-Haley Jeppson - (something)
+Haley Jeppson - PhD student, sanity checker, plant mom
 
 Ian Lyttle - Schneider Electric, enthusiastic helper
 
-Heike Hofmann - extraordinary knowledge vault
+Heike Hofmann - extraordinary vault of knowledge & experience
 
-Susan Vanderplas - (something about being a day 0 wizard)
+Susan Vanderplas - computer problem debugger extraordinaire
+
+### Not present 
+
+Sam Helmich - John Deere, venue pro and food acquirer
+
+Amelia McNamara - University of St. Thomas, super Github educator 
+
+Angela Li - UChicago, expert organizer
 
 ---
 # Who
 
-The participants:
+The [participants](http://uuconf.rbind.io):
 
 - represent the wide variety of skills and experience of all R users
 
@@ -45,7 +53,6 @@ The participants:
 
 <br />
 
-(some summary stats on the particpants??)
 
 ---
 background-image: url(http://uuconf.rbind.io/images/templogo.png)
@@ -123,13 +130,28 @@ class: inverse, center, middle
 - @wendtke @ajmcoqui @almccombs
 
 ---
-class: center, middle
+# What we learned
 
-### (add meme??)
+```{r meme1, echo=F, fig.align='center', message=FALSE, out.width="50%"}
+library(memer)
+meme_get("SuccessKid")
+```
+
+---
+
+```{r, fig.align='center', message=FALSE, out.width = "50%"}
+
+meme_get("DosEquisMan") %>% 
+  meme_text_top("I don't always write R packages,", size = 26) %>% 
+  meme_text_bottom("but when I do, I'm at an unconf.", size = 26)
+```
 
 ---
 background-image: url(https://pbs.twimg.com/media/DfqjHpNU0AIuufg.jpg)
 background-size: 1500px
 background-position: 30% 30%
+class: center middle inverse
+
+# Questions? 
 
 
