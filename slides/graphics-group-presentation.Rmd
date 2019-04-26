@@ -28,7 +28,7 @@ Haley Jeppson - (something)
 
 Ian Lyttle - Schneider Electric, enthusiastic helper
 
-Heike Hofmann - extraordinary knowlege vault
+Heike Hofmann - extraordinary knowledge vault
 
 Susan Vanderplas - (something about being a day 0 wizard)
 
@@ -122,3 +122,7 @@ class: inverse, center, middle
 
 - @wendtke @ajmcoqui @almccombs
 
+---
+class: center, middle
+
+### (add meme??)
