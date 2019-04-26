@@ -17,16 +17,95 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+```{r pkgs, include=FALSE}
+library(emo)
+```
 # About Us
 
 Sam Tyner - postdoc, over-involved & over-committed 
 
+Haley Jeppson - (something)
+
+Ian Lyttle - Schneider Electric, enthusiastic helper
+
+Heike Hofmann - extraordinary knowlege vault
+
+Susan Vanderplas - (something about being a day 0 wizard)
+
 ---
+# Who
+
+The participants:
+
+- represent the wide variety of skills and experience of all R users
+
+  - from beginners to a member of R-Core
+  
+- are a diverse group from industry, academia, and government
+
+<br />
+
+(some summary stats on the particpants??)
+
+---
+background-image: url(http://uuconf.rbind.io/images/templogo.png)
+background-size: 600px
+background-position: 50% 80%
 # Why 
+
+To bring R users and developers together in flyover country.
 
 ---
 # When & Where
 
+![](img/when.png)
 ---
 class: inverse, center, middle
 # What
+
+---
+# Projects (1 of 3)
+
+### `r emo::ji("anchor")` [steward](https://github.com/uncoast-unconf/steward)   
+- @ijlyttle @stephaniereinders @nikdata @AmandaRaeISU  
+
+### `r emo::ji("stuck_out_tongue_closed_eyes")` [untidydata2](https://github.com/kwstat/untidydata2)
+
+- @anneae @kwstat @giorgichi @davidbody  
+
+### `r emo::ji("whale")` [whaler](https://github.com/uncoast-unconf/whaler)
+
+- @ellisvalentiner @benjamincrary @shelmich @ajmcoqui
+
+
+---
+# Projects (2 of 3)
+
+### `r emo::ji("scroll")` rolldown 
+
+- @yihui @iqis @cpsievert
+
+### `r emo::ji("earth_americas")` [ggcart](https://github.com/uncoast-unconf/ggcart)
+
+- @charlesminshew @gergness @kmaurer @angela-li @hlendway @mdseege
+
+### `r emo::ji("sweat_smile")` [Methods of Weird](https://github.com/uncoast-unconf/methods-of-weird). Modeling the weirdness of people. 
+
+- @linkalis @mharmston @mkosmicki @cvanpay @drfletch
+
+
+---
+# Projects (3 of 3)
+
+### `r emo::ji("cyclone")`  [Swirl course for writing an R package](https://github.com/lex-files/swirl_courses)  
+
+- @lex-files @vfquirin @nooreendabbish
+
+### `r emo::ji("eyes")` [opencv](https://github.com/uncoast-unconf/opencv)
+
+- @gzt @speegled @minnesotka @wch
+
+### `r emo::ji("heartbeat")` psyphyr: psychophysiological data wrangling 
+
+- @wendtke @ajmcoqui @almccombs
+

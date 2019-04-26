@@ -14,3 +14,12 @@
 .remark-slide-content h2 {
   font-size: 38px;
 }
+
+.remark-slide-content h3 {
+  font-size: 28px;
+}
+
+a, a > code {
+  color: #145EB2;
+  text-decoration: none;
+}
