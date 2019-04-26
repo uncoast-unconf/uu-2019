@@ -1,7 +1,7 @@
 ---
 title: "The Uncoast Unconf"
 subtitle: "Who, What, When, Where, Why, and How?<br>(not necessarily in that order)"
-author: "Sam Tyner, Ian Lyttle, Amelia McNamara, Heike Hofmann, Susan Vanderplas"
+author: "Sam Tyner, Haley Jeppson, Ian Lyttle, Heike Hofmann, Susan Vanderplas"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
